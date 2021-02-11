@@ -6,3 +6,5 @@ The solution has two projects. **TimsDinerDB** is a SSDT project that is used to
 
 The **DataLibrary** project is a class library that connects to the database as well as provide data access classes to the client apps so they can interact with the database.
 
+Dapper is the ORM that is used to handle queries.
+

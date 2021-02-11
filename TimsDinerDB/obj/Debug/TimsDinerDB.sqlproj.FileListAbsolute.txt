@@ -1,0 +1,16 @@
+C:\Users\me\source\repos\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dacpac
+C:\Users\me\source\repos\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dll
+C:\Users\me\source\repos\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.pdb
+C:\Users\me\source\repos\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.sqlprojAssemblyReference.cache
+C:\Users\me\source\repos\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.dll
+C:\Users\me\source\repos\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.pdb
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dacpac
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.dll
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\bin\Debug\TimsDinerDB.pdb
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.sqlprojAssemblyReference.cache
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\Model.xml
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\refactor.xml
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\postdeploy.sql
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\predeploy.sql
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.dll
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Debug\TimsDinerDB.pdb

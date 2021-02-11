@@ -21,6 +21,34 @@ namespace DataLibrary.Data
             _connectionString = connectionString;
         }
 
+        public async Task<OrderModel> GetOrderById(int orderId)
+        {
+            var recs = await _dataAccess.LoadData<OrderModel, dynamic>("dbo.spOrders_GetById",
+                new
+                {
+                    Id = orderId
+                },
+                _connectionString.SqlConnectionName);
+
+            return recs.FirstOrDefault();
+        }
+
+        public async Task<List<OrderModel>> GetOrders()
+        {
+            return await _dataAccess.LoadData<OrderModel, dynamic>(
+                "dbo.spOrders_GetAll",
+                new { },
+                _connectionString.SqlConnectionName);
+        }
+
+        public async Task<List<OrderModelWithFoodDetails>> GetOrdersWithFoodDetails()
+        {
+            return await _dataAccess.LoadData<OrderModelWithFoodDetails, dynamic>(
+                "dbo.spOrders_GetAllWithFoodDetails",
+                new { },
+                _connectionString.SqlConnectionName);
+        }
+
         public async Task<int> CreateOrder(OrderModel order)
         {
             DynamicParameters p = new DynamicParameters();
@@ -58,16 +86,8 @@ namespace DataLibrary.Data
                                         _connectionString.SqlConnectionName);
         }
 
-        public async Task<OrderModel> GetOrderById(int orderId)
-        {
-            var recs = await _dataAccess.LoadData<OrderModel, dynamic>("dbo.spOrders_GetById",
-                new
-                {
-                    Id = orderId
-                },
-                _connectionString.SqlConnectionName);
+        
 
-            return recs.FirstOrDefault();
-        }
+        
     }
 }

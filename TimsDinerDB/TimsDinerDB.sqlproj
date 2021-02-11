@@ -60,6 +60,7 @@
     <Folder Include="dbo\Tables" />
     <Folder Include="dbo\Stored Procedures" />
     <Folder Include="Scripts" />
+    <Folder Include="dbo\Views" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Food.sql" />
@@ -69,8 +70,14 @@
     <Build Include="dbo\Stored Procedures\spOrders_Insert.sql" />
     <Build Include="dbo\Stored Procedures\spOrders_UpdateName.sql" />
     <Build Include="dbo\Stored Procedures\spOrders_Delete.sql" />
+    <Build Include="dbo\Stored Procedures\spOrders_GetAll.sql" />
+    <Build Include="dbo\Views\GetAllOrdersWithFoodName.sql" />
+    <Build Include="dbo\Stored Procedures\spOrders_GetAllWithFoodDetails.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.PostDeployment.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TimsDinerDB.publish.xml" />
   </ItemGroup>
 </Project>

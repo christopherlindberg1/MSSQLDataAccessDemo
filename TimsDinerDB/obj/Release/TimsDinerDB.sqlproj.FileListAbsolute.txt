@@ -1,9 +1,9 @@
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dacpac
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.dll
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\bin\Release\TimsDinerDB.pdb
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
+C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\Model.xml
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\refactor.xml
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\postdeploy.sql
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\predeploy.sql
-C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.dll
-C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\TimsDinerDB\obj\Release\TimsDinerDB.pdb

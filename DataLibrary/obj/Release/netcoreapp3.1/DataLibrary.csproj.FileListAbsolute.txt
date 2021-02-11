@@ -6,4 +6,3 @@ C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\Co
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.dll
 C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.pdb
-C:\Users\Christopher\OneDrive\Utveckling\udemy\which-asp-core\WhichAspNetCore\CompleteApps\AspNetCoreCommon\DataLibrary\obj\Release\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
